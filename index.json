@@ -1,0 +1,20 @@
+[
+  {
+    "slug": "ble-personnas-provisionamento",
+    "date": "2026-05-19",
+    "category": "release",
+    "tags": ["release", "bluetooth", "ble", "personnas", "provisioning", "geolocation"],
+    "title": {
+      "pt": "Novidades: Bluetooth, Personnas e Links de Provisionamento",
+      "en": "What's New: Bluetooth, Personnas, and Provisioning Links"
+    },
+    "subtitle": {
+      "pt": "Configure dispositivos por Bluetooth, associe clientes a dispositivos e distribua com links e QR Codes.",
+      "en": "Configure devices via Bluetooth, associate clients to devices, and distribute with links and QR Codes."
+    },
+    "content": {
+      "pt": "posts/release/0.16.2-ble-personnas-provisionamento/pt-br.md",
+      "en": "posts/release/0.16.2-ble-personnas-provisionamento/en-us.md"
+    }
+  }
+]
