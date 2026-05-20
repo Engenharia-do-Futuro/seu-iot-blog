@@ -5,8 +5,8 @@
     "category": "release",
     "tags": ["release", "bluetooth", "ble", "personnas", "provisioning", "geolocation"],
     "title": {
-      "pt": "Novidades: Bluetooth, Personnas e Links de Provisionamento",
-      "en": "What's New: Bluetooth, Personnas, and Provisioning Links"
+      "pt": "Nova Versão: Bluetooth, Personnas e Links de Provisionamento",
+      "en": "New Release: Bluetooth, Personnas, and Provisioning Links"
     },
     "subtitle": {
       "pt": "Configure dispositivos por Bluetooth, associe clientes a dispositivos e distribua com links e QR Codes.",
