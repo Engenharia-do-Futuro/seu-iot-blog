@@ -1,3 +1,5 @@
+![Capa](https://raw.githubusercontent.com/Engenharia-do-Futuro/seu-iot-blog/main/images/seuiot_common/Capa.png)
+
 # Novidades: Configuração por Bluetooth, Personnas e Links de Provisionamento
 
 **Data:** Maio de 2026 | **Versão:** Após v0.15.0

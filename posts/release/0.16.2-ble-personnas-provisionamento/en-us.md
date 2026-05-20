@@ -1,3 +1,5 @@
+![Cover](https://raw.githubusercontent.com/Engenharia-do-Futuro/seu-iot-blog/main/images/seuiot_common/Capa.png)
+
 # What's New: Bluetooth Configuration, Personnas, and Provisioning Links
 
 **Date:** May 2026 | **Version:** Post v0.15.0
