@@ -24,6 +24,8 @@ Previously, connecting a new device to the platform required AP mode: connecting
 4. The system automatically detects the firmware version, MAC address, and current status
 5. Choose the Wi-Fi network, select the repository the device will belong to, and you're done
 
+![Bluetooth configuration](https://raw.githubusercontent.com/Engenharia-do-Futuro/seu-iot-blog/main/posts/release/0.16.2-ble-personnas-provisionamento/images/ble-provisioning.png)
+
 The connection is **encrypted** — the device firmware and the server exchange security keys before any configuration is sent, so your Wi-Fi credentials travel safely.
 
 > Example: you arrive at a client site with 5 new devices. Instead of connecting to each device's AP separately, you handle everything from your laptop screen via Bluetooth, without ever leaving the platform.
@@ -68,9 +70,13 @@ Think of a distributor that ships 200 sensors a month. Before, a technician had 
 - **Expiration date** — the link can expire on a specific date
 - **Automatic Personna association** — the client fills in their own details during the flow and gets registered automatically
 
+![Provisioning Links](https://raw.githubusercontent.com/Engenharia-do-Futuro/seu-iot-blog/main/posts/release/0.16.2-ble-personnas-provisionamento/images/provisioning-links.png)
+
 Each link automatically generates a **QR Code** that you can print, put on product packaging, or send by email.
 
 > Example: you close a deal with 50 units. You create a provisioning link with a limit of 50 uses and a 30-day expiration. You send the link to your client. They configure devices at their own pace, and everything lands in the correct repository in your account.
+
+![Provisioning from link](https://raw.githubusercontent.com/Engenharia-do-Futuro/seu-iot-blog/main/posts/release/0.16.2-ble-personnas-provisionamento/images/ble-provisioning-from-provisioning-link.png)
 
 ---
 
@@ -79,6 +85,8 @@ Each link automatically generates a **QR Code** that you can print, put on produ
 During Bluetooth configuration, the browser now **captures the geographic location** (with the user's permission) and saves the device's coordinates.
 
 On the devices page, you can **switch to map view** and see where each device is installed. Nearby devices are automatically clustered on the map for easier visualization.
+
+![Device map](https://raw.githubusercontent.com/Engenharia-do-Futuro/seu-iot-blog/main/posts/release/0.16.2-ble-personnas-provisionamento/images/device-list-in-map.png)
 
 > Useful for those with devices spread across multiple cities or regions — you can see at a glance whether any area has more offline devices, for example.
 

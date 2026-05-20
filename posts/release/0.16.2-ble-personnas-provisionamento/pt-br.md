@@ -24,6 +24,8 @@ Antes, para conectar um novo dispositivo à plataforma, era necessário entrar n
 4. O sistema detecta automaticamente o firmware, o endereço MAC e o status atual
 5. Você escolhe a rede Wi-Fi, o repositório ao qual o dispositivo vai pertencer, e pronto
 
+![Configuração via Bluetooth](https://raw.githubusercontent.com/Engenharia-do-Futuro/seu-iot-blog/main/posts/release/0.16.2-ble-personnas-provisionamento/images/ble-provisioning.png)
+
 A conexão é **criptografada** — o firmware do dispositivo e o servidor trocam chaves de segurança antes de qualquer configuração ser enviada, então os dados da sua rede Wi-Fi viajam de forma protegida.
 
 > Exemplo: você chegou a um cliente com 5 novos dispositivos. Em vez de conectar no AP de cada um separadamente, você faz tudo de uma vez pela tela do notebook, por Bluetooth, sem sair da plataforma.
@@ -68,9 +70,13 @@ Pense em uma distribuidora que vende 200 sensores por mês. Antes, alguém da eq
 - **Validade** — o link pode expirar em uma data específica
 - **Associação automática a uma Personna** — o cliente preenche os dados dele durante o fluxo, e já fica cadastrado
 
+![Links de Provisionamento](https://raw.githubusercontent.com/Engenharia-do-Futuro/seu-iot-blog/main/posts/release/0.16.2-ble-personnas-provisionamento/images/provisioning-links.png)
+
 O link gera automaticamente um **QR Code** que você pode imprimir, colocar no box do produto, ou enviar por e-mail.
 
 > Exemplo: você fecha um contrato com 50 unidades. Cria um link de provisionamento com limite de 50 usos e validade de 30 dias. Envia o link para o seu cliente. Ele configura os dispositivos no próprio ritmo, e tudo cai no repositório correto na sua conta.
+
+![Provisionamento via Link](https://raw.githubusercontent.com/Engenharia-do-Futuro/seu-iot-blog/main/posts/release/0.16.2-ble-personnas-provisionamento/images/ble-provisioning-from-provisioning-link.png)
 
 ---
 
@@ -79,6 +85,8 @@ O link gera automaticamente um **QR Code** que você pode imprimir, colocar no b
 Durante a configuração por Bluetooth, o navegador agora **captura a localização geográfica** (com permissão do usuário) e salva as coordenadas do dispositivo.
 
 Na página de dispositivos, você pode **alternar para a visão de mapa** e ver onde cada dispositivo está instalado. Dispositivos próximos se agrupam automaticamente no mapa para facilitar a visualização.
+
+![Mapa de dispositivos](https://raw.githubusercontent.com/Engenharia-do-Futuro/seu-iot-blog/main/posts/release/0.16.2-ble-personnas-provisionamento/images/device-list-in-map.png)
 
 > Útil para quem tem dispositivos espalhados em várias cidades ou regiões — é possível ver de relance se alguma área está com mais dispositivos offline, por exemplo.
 
