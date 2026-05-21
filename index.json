@@ -15,6 +15,14 @@
     "content": {
       "pt": "posts/release/0.16.2-ble-personnas-provisionamento/pt-br.md",
       "en": "posts/release/0.16.2-ble-personnas-provisionamento/en-us.md"
+    },
+    "author": {
+      "name": "Rodrigo Schardong",
+      "avatar": "authors/Rodrigo_Schardong/Rodrigo_Schardong.png",
+      "bio": {
+        "pt": "authors/Rodrigo_Schardong/pt-br.md",
+        "en": "authors/Rodrigo_Schardong/en-us.md"
+      }
     }
   }
 ]
