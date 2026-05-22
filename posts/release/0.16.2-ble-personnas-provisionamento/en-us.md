@@ -2,7 +2,7 @@
 
 # What's New: Bluetooth Configuration, Personnas, and Provisioning Links
 
-**Date:** May 2026 | **Version:** Post v0.15.0
+**Date:** May 2026 | **Version:** v0.16.2
 
 ---
 

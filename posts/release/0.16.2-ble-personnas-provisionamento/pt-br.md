@@ -2,7 +2,7 @@
 
 # Novidades: Configuração por Bluetooth, Personnas e Links de Provisionamento
 
-**Data:** Maio de 2026 | **Versão:** Após v0.15.0
+**Data:** Maio de 2026 | **Versão:** v0.16.2
 
 ---
 
