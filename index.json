@@ -1,5 +1,27 @@
 [
   {
+    "slug": "monitoramento-iot-banho-ultratermostico-bioreator",
+    "date": "2026-06-03",
+    "category": "project",
+    "tags": ["project", "iot", "temperature", "laboratory", "bioreactor", "sensor", "monitoring", "biotech"],
+    "title": {
+      "pt": "Monitoramento IoT do Banho Ultratermostático em Biorreator",
+      "en": "IoT Monitoring of the Ultratermostatic Bath in a Bioreactor"
+    },
+    "subtitle": {
+      "pt": "Como um sensor IoT transformou um equipamento analógico crítico em um ponto visível e monitorável de um processo de cultivo celular.",
+      "en": "How an IoT sensor turned a critical analog device into a visible, monitorable node in a cell culture process."
+    },
+    "content": {
+      "pt": "posts/project/monitoramento-iot-banho-ultratermostico-bioreator/pt-br.md",
+      "en": "posts/project/monitoramento-iot-banho-ultratermostico-bioreator/en-us.md"
+    },
+    "author": {
+      "name": "Jaqueline Leite Vieira",
+      "path": "authors/Jaqueline_Leite_Vieira/author.json"
+    }
+  },
+  {
     "slug": "ble-personnas-provisionamento",
     "date": "2026-05-19",
     "category": "release",

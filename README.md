@@ -58,6 +58,7 @@ seu-iot-blog/
 | Categoria | Pasta | Exemplo |
 |-----------|-------|---------|
 | `release`  | `posts/release/{version}-{slug}/` | `posts/release/0.16.2-ble-personnas-provisionamento/` |
+| `project`  | `posts/project/{slug}/` | `posts/project/monitoramento-iot-banho-ultratermostico-bioreator/` |
 
 ## Schema do `index.json`
 
