@@ -6,15 +6,18 @@
     "tags": ["project", "iot", "temperature", "laboratory", "bioreactor", "sensor", "monitoring", "biotech"],
     "title": {
       "pt": "Monitoramento IoT do Banho Ultratermostático em Biorreator",
-      "en": "IoT Monitoring of the Ultratermostatic Bath in a Bioreactor"
+      "en": "IoT Monitoring of the Ultratermostatic Bath in a Bioreactor",
+      "es": "Monitoreo IoT del Baño Ultratermostático en Biorreactor"
     },
     "subtitle": {
       "pt": "Como um sensor IoT transformou um equipamento analógico crítico em um ponto visível e monitorável de um processo de cultivo celular.",
-      "en": "How an IoT sensor turned a critical analog device into a visible, monitorable node in a cell culture process."
+      "en": "How an IoT sensor turned a critical analog device into a visible, monitorable node in a cell culture process.",
+      "es": "Cómo un sensor IoT transformó un equipo analógico crítico en un nodo visible y monitoreable de un proceso de cultivo celular."
     },
     "content": {
       "pt": "posts/project/monitoramento-iot-banho-ultratermostico-bioreator/pt-br.md",
-      "en": "posts/project/monitoramento-iot-banho-ultratermostico-bioreator/en-us.md"
+      "en": "posts/project/monitoramento-iot-banho-ultratermostico-bioreator/en-us.md",
+      "es": "posts/project/monitoramento-iot-banho-ultratermostico-bioreator/es-es.md"
     },
     "cover": "posts/project/monitoramento-iot-banho-ultratermostico-bioreator/images/cover.jpg",
     "author": {
@@ -29,15 +32,18 @@
     "tags": ["release", "bluetooth", "ble", "personnas", "provisioning", "geolocation"],
     "title": {
       "pt": "Nova Versão: Bluetooth, Personnas e Links de Provisionamento",
-      "en": "New Release: Bluetooth, Personnas, and Provisioning Links"
+      "en": "New Release: Bluetooth, Personnas, and Provisioning Links",
+      "es": "Nueva Versión: Bluetooth, Personnas y Enlaces de Aprovisionamiento"
     },
     "subtitle": {
       "pt": "Configure dispositivos por Bluetooth, associe clientes a dispositivos e distribua com links e QR Codes.",
-      "en": "Configure devices via Bluetooth, associate clients to devices, and distribute with links and QR Codes."
+      "en": "Configure devices via Bluetooth, associate clients to devices, and distribute with links and QR Codes.",
+      "es": "Configura dispositivos por Bluetooth, asocia clientes a dispositivos y distribuye con enlaces y códigos QR."
     },
     "content": {
       "pt": "posts/release/0.16.2-ble-personnas-provisionamento/pt-br.md",
-      "en": "posts/release/0.16.2-ble-personnas-provisionamento/en-us.md"
+      "en": "posts/release/0.16.2-ble-personnas-provisionamento/en-us.md",
+      "es": "posts/release/0.16.2-ble-personnas-provisionamento/es-es.md"
     },
     "author": {
       "name": "Rodrigo Schardong",
