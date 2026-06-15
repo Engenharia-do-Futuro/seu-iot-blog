@@ -1,7 +1,7 @@
 [
   {
     "slug": "monitoramento-iot-banho-ultratermostico-bioreator",
-    "date": "2026-06-03",
+    "date": "2026-06-14",
     "category": "project",
     "tags": ["project", "iot", "temperature", "laboratory", "bioreactor", "sensor", "monitoring", "biotech"],
     "title": {
@@ -16,6 +16,7 @@
       "pt": "posts/project/monitoramento-iot-banho-ultratermostico-bioreator/pt-br.md",
       "en": "posts/project/monitoramento-iot-banho-ultratermostico-bioreator/en-us.md"
     },
+    "cover": "posts/project/monitoramento-iot-banho-ultratermostico-bioreator/images/cover.jpg",
     "author": {
       "name": "Dra. Jaqueline Vieira",
       "path": "authors/Jaqueline_Leite_Vieira/author.json"
