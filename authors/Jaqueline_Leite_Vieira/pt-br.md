@@ -1,4 +1,4 @@
-# Jaqueline Leite Vieira
+# Dra. Jaqueline Vieira
 
 **Pesquisadora · Engenharia tecidual, biomateriais e cultivo de células 3D**
 

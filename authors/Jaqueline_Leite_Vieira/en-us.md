@@ -1,4 +1,4 @@
-# Jaqueline Leite Vieira
+# Dr. Jaqueline Vieira
 
 **Researcher · Tissue engineering, biomaterials and 3D cell culture**
 
