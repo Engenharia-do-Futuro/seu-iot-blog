@@ -1,10 +1,10 @@
 ![Capa](https://raw.githubusercontent.com/Engenharia-do-Futuro/seu-iot-blog/main/images/seuiot_common/Capa.png)
 
-# Instrumentação 2.0: calibre sensores de forma visual, com preview em tempo real
+# Instrumentação 2.0: calibre sensores vendo o resultado em tempo real
 
 **Calibração mais rápida e menos sujeita a erro, links de calibração (manuais e automáticos), nova página de Links e a plataforma agora em Espanhol.**
 
-**Versão:** 0.17.0 | **Data:** [CONFIRMAR]
+**Versão:** 0.17.0 | **Data:** 2026-06-19
 
 ---
 

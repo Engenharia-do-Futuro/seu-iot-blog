@@ -1,5 +1,30 @@
 [
   {
+    "slug": "instrumentacao-2-0-calibracao-em-tempo-real",
+    "date": "2026-06-19",
+    "category": "release",
+    "tags": ["release", "instrumentation", "calibration", "linearization", "qualification", "sensor", "provisioning", "spanish"],
+    "title": {
+      "pt": "Instrumentação 2.0: calibre sensores vendo o resultado em tempo real",
+      "en": "Instrumentation 2.0: calibrate sensors seeing the result in real time",
+      "es": "Instrumentación 2.0: calibra sensores viendo el resultado en tiempo real"
+    },
+    "subtitle": {
+      "pt": "Calibração mais rápida e menos sujeita a erro, links de calibração (manuais e automáticos), nova página de Links e a plataforma agora em Espanhol.",
+      "en": "Faster, less error-prone calibration, calibration links (manual and automatic), a new Links page, and the platform now in Spanish.",
+      "es": "Calibración más rápida y menos propensa a errores, enlaces de calibración (manuales y automáticos), nueva página de Enlaces y la plataforma ahora en Español."
+    },
+    "content": {
+      "pt": "posts/release/0.17.0-instrumentacao-2-0/pt-br.md",
+      "en": "posts/release/0.17.0-instrumentacao-2-0/en-us.md",
+      "es": "posts/release/0.17.0-instrumentacao-2-0/es-es.md"
+    },
+    "author": {
+      "name": "Rodrigo Schardong",
+      "path": "authors/Rodrigo_Schardong/author.json"
+    }
+  },
+  {
     "slug": "monitoramento-iot-banho-ultratermostico-bioreator",
     "date": "2026-06-14",
     "category": "project",
