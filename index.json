@@ -1,5 +1,30 @@
 [
   {
+    "slug": "estreia-do-seu-iot",
+    "date": "2026-08-16",
+    "category": "release",
+    "tags": ["release", "projects", "blueprint", "canvas", "processes", "triggers", "i2c", "esp32-s3", "security"],
+    "title": {
+      "pt": "Seu IoT 1.0: a estreia da plataforma como ela sempre foi idealizada",
+      "en": "Seu IoT 1.0: the platform's debut, the way it was always meant to be",
+      "es": "Seu IoT 1.0: el estreno de la plataforma como siempre fue pensada"
+    },
+    "subtitle": {
+      "pt": "O Seu IoT foi evoluindo passo a passo, conforme a necessidade de cada projeto, mas a ideia original sempre foi chegar aqui. Remodelamos todo o sistema operacional da plataforma para sustentar essa visão.",
+      "en": "Seu IoT evolved step by step, driven by the needs of each project, but the original idea was always to get here. We rebuilt the platform's entire operating system to support that vision.",
+      "es": "Seu IoT fue evolucionando paso a paso, según la necesidad de cada proyecto, pero la idea original siempre fue llegar hasta aquí. Rediseñamos todo el sistema operativo de la plataforma para sostener esa visión."
+    },
+    "content": {
+      "pt": "posts/release/1.0.0-estreia-do-seu-iot/pt-br.md",
+      "en": "posts/release/1.0.0-estreia-do-seu-iot/en-us.md",
+      "es": "posts/release/1.0.0-estreia-do-seu-iot/es-es.md"
+    },
+    "author": {
+      "name": "Rodrigo Schardong",
+      "path": "authors/Rodrigo_Schardong/author.json"
+    }
+  },
+  {
     "slug": "instrumentacao-2-0-calibracao-em-tempo-real",
     "date": "2026-06-19",
     "category": "release",
