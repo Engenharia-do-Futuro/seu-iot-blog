@@ -19,6 +19,7 @@
       "en": "posts/release/1.0.0-estreia-do-seu-iot/en-us.md",
       "es": "posts/release/1.0.0-estreia-do-seu-iot/es-es.md"
     },
+    "cover": "posts/release/1.0.0-estreia-do-seu-iot/images/process_catalog.png",
     "author": {
       "name": "Rodrigo Schardong",
       "path": "authors/Rodrigo_Schardong/author.json"
@@ -44,6 +45,7 @@
       "en": "posts/release/0.17.0-instrumentacao-2-0/en-us.md",
       "es": "posts/release/0.17.0-instrumentacao-2-0/es-es.md"
     },
+    "cover": "posts/release/0.17.0-instrumentacao-2-0/images/instrumentation_overview.png",
     "author": {
       "name": "Rodrigo Schardong",
       "path": "authors/Rodrigo_Schardong/author.json"
@@ -95,6 +97,7 @@
       "en": "posts/release/0.16.2-ble-personnas-provisionamento/en-us.md",
       "es": "posts/release/0.16.2-ble-personnas-provisionamento/es-es.md"
     },
+    "cover": "posts/release/0.16.2-ble-personnas-provisionamento/images/ble-provisioning.png",
     "author": {
       "name": "Rodrigo Schardong",
       "path": "authors/Rodrigo_Schardong/author.json"
