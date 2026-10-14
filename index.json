@@ -1,5 +1,30 @@
 [
   {
+    "slug": "visualizacao-de-dados-e-integracoes",
+    "date": "2026-10-13",
+    "category": "release",
+    "tags": ["release", "dashboard", "charts", "kpi", "gauge", "heatmap", "table", "map", "api", "widgets", "mcp", "ai", "firmware"],
+    "title": {
+      "pt": "Seu IoT 1.1: seus dados em qualquer tela, e conectados ao resto do mundo",
+      "en": "Seu IoT 1.1: your data on any screen, and connected to the rest of the world",
+      "es": "Seu IoT 1.1: tus datos en cualquier pantalla, y conectados con el resto del mundo"
+    },
+    "subtitle": {
+      "pt": "Uma nova central de visualização de dados, tabelas e mapas que cruzam projetos, status online/offline de cada dispositivo, API aberta com widgets para colar no seu site e conexão com assistentes de IA. Tudo sob o seu controle.",
+      "en": "A new data visualization hub, tables and maps that span projects, online/offline status for every device, an open API with widgets you can paste into your website, and connection to AI assistants. All under your control.",
+      "es": "Un nuevo centro de visualización de datos, tablas y mapas que cruzan proyectos, estado en línea/fuera de línea de cada dispositivo, una API abierta con widgets para pegar en tu sitio y conexión con asistentes de IA. Todo bajo tu control."
+    },
+    "content": {
+      "pt": "posts/release/1.1.0-visualizacao-de-dados-e-integracoes/pt-br.md",
+      "en": "posts/release/1.1.0-visualizacao-de-dados-e-integracoes/en-us.md",
+      "es": "posts/release/1.1.0-visualizacao-de-dados-e-integracoes/es-es.md"
+    },
+    "author": {
+      "name": "Rodrigo Schardong",
+      "path": "authors/Rodrigo_Schardong/author.json"
+    }
+  },
+  {
     "slug": "estreia-do-seu-iot",
     "date": "2026-08-16",
     "category": "release",
