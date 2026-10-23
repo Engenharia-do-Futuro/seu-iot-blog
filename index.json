@@ -1,7 +1,7 @@
 [
   {
     "slug": "visualizacao-de-dados-e-integracoes",
-    "date": "2026-10-13",
+    "date": "2026-10-22",
     "category": "release",
     "tags": ["release", "dashboard", "charts", "kpi", "gauge", "heatmap", "table", "map", "api", "widgets", "mcp", "ai", "firmware"],
     "title": {
@@ -19,6 +19,7 @@
       "en": "posts/release/1.1.0-visualizacao-de-dados-e-integracoes/en-us.md",
       "es": "posts/release/1.1.0-visualizacao-de-dados-e-integracoes/es-es.md"
     },
+    "cover": "posts/release/1.1.0-visualizacao-de-dados-e-integracoes/images/cover.png",
     "author": {
       "name": "Rodrigo Schardong",
       "path": "authors/Rodrigo_Schardong/author.json"
